@@ -16,5 +16,6 @@ L'objectif principal de cette page est de présenter de manière concise et attr
 - Mise en page attrayante grâce aux classes CSS
 - Présentation visuelle à l'aide d'images et de contenus textuels
 
-## Temps passé sur le projet
 ![Temps passé sur le projet](https://badgen.net/badge/Temps%20pass%C3%A9/7h30/blue)
+
+C'est un bon début !
