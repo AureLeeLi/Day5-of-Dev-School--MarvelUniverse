@@ -9,7 +9,7 @@ L'objectif principal de cette page est de présenter de manière concise et attr
 
 ## Technologies utilisées
 ![Logo HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/langfr-130px-HTML5_logo_and_wordmark.svg.png) 
-![Logo CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/130px-CSS3_logo_and_wordmark.svg.png)
+![Logo CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/100px-CSS3_logo_and_wordmark.svg.png)
 
 ## Fonctionnalités de la page
 - Affichage d'informations sur l'univers Marvel
